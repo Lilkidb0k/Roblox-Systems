@@ -14,9 +14,8 @@ A reusable map voting & round system for Roblox multiplayer games.
 
 The source code and example project will be organized in this folder.
 
-## 📋 Requirements
+## 📋 Required Packages
 
-- Roblox Studio
 - [**Trove**](https://sleitnick.github.io/RbxUtil/api/Trove/)
 - [**Quinit**](https://github.com/DonkableDoof/Quinit/tree/main)
 
