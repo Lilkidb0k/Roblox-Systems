@@ -9,7 +9,6 @@ My goal is to create practical, modular systems that developers can download, le
 | System | Description | Status |
 |---|---|---|
 | Round & Map Voting System | Multiplayer map selection, map loading and vote tracking | In development |
-| Round System | Round states, intermissions, and results | Planned |
 
 ## 🚀 How to use
 
